@@ -14,7 +14,9 @@ The purpose of this analysis is to help W. Avy to make important business decisi
 The location is important because climate can vary on the island. W. Ivy wants to be prepared by knowing weather history and patterns in the area where the shop might be located. The data-driven decisions that we will make will be based on temperature and rainfall for the past 7 years from 2010-2017, specifically June and December. These 2 months are far apart 
 enough to ensure we have good conditions year-round.   
 
-      - The analysis consists of 2 parts:   
+### Analysis Details
+
+The analysis consists of 2 parts:   
       - Temperature Statistics analysis for June and December for 2010-2017.
       - Rainfall analysis for June and December for 2010-2017.
 
