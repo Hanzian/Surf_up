@@ -1,4 +1,4 @@
-#   Surfs-Up Weather Analysis :
+#    Surfs-Up Weather Analysis :
 
 <p align="center">
    <img width="500" height="300" src="https://github.com/Hanzian/Surf_up/blob/main/Data/best-surf-spots-in-hawaii-29.jpg">
