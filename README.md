@@ -31,7 +31,10 @@ The first 2 charts show the statistics for June and December – tobs
      -	June’s mean is 79.94 F and the median is 75.00 F.
      -	December’s mean is 71.04 F and median is 71.0 F.
 <p align="center">
-   <img width="300" height="300" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig%201%20temps.png">
+   <img width="300" height="300" src="https://github.com/Hanzian/Surf_up/blob/main/Data/June_temps.png">
+ </p> 
+ <p align="center">
+   <img width="300" height="300" src="https://github.com/Hanzian/Surf_up/blob/main/Data/June_temps.png">
 </p>   
 <p align="center">
 Tables showing June and December temperature Statistics 
