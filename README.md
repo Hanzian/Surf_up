@@ -34,7 +34,7 @@ The first 2 charts show the statistics for June and December – tobs
    <img width="300" height="300" src="https://github.com/Hanzian/Surf_up/blob/main/Data/June_temps.png">
  </p> 
  <p align="center">
-   <img width="300" height="300" src="https://github.com/Hanzian/Surf_up/blob/main/Data/June_temps.png">
+   <img width="300" height="300" src="https://github.com/Hanzian/Surf_up/blob/main/Data/Dec_temps.png">
 </p>   
 <p align="center">
 Tables showing June and December temperature Statistics 
@@ -63,6 +63,6 @@ Tables showing June and December Precipitation Statistics
 </p>
 
 ### Summary 
-The data frame tables above give us a quick view of the weather in area, but to fully understand the trends, additional
-formats and analysis can be helpful.  I've provided 2 box and whisker charts for more visual understanding.  
+After a view of our statistic data, we can notice that the both months are better because their get all the requirements to pratice surf in good conditions. The data frame tables above give us a quick view of the weather in area, but to fully understand the trends, add some
+formats and analysis can be helpful. 
 
