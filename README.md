@@ -17,8 +17,8 @@ enough to ensure we have good conditions year-round.
 ### Analysis Details
 
 The analysis consists of 2 parts:   
-      - Temperature Statistics analysis for June and December for 2010-2017.
-      - Rainfall analysis for June and December for 2010-2017.
+- Temperature Statistics analysis for June and December for 2010-2017.
+- Rainfall analysis for June and December for 2010-2017.
 
 ### Results
 The analysis focuses on the temperature and rainfall from six different weather stations.
